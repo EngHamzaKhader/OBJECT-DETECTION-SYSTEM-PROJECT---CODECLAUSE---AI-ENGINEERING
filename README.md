@@ -1,1 +1,2 @@
 # OBJECT-DETECTION-SYSTEM-PROJECT---CODECLAUSE---AI-ENGINEERING
+I developed a real-time Object Detection System using YOLOv8 to identify specified classes in images. The project involved importing essential libraries, organizing the dataset, pre-processing images, and creating a YAML configuration file for training. After training the model for 10 epochs, I performed inference on a test image and visualized the detection results, showcasing the model's effectiveness. This project enhanced my skills in data pre-processing, computer vision, and model training.
